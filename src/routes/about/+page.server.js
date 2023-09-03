@@ -1,5 +1,5 @@
 import os from "os";
-import { exec } from "child_process";
+import { exec, execSync } from "child_process";
 
 export function load() {
     let data = {};
@@ -21,9 +21,7 @@ export function load() {
     ];
 
     commands.forEach((value, index, array) => {
-        exec(value, (error, stdout, stderr) => {
-            data["commands"][value] = stdout;
-        });
+        data["commands"][value] = execSync(value).toString();
     })
 
     return data;
