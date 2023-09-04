@@ -50,6 +50,8 @@ email: andreisva2023@gmail.com
   commands.set("cat", (argv) => {
     if (argv.length < 1) {
       return "usage: cat <filename>";
+    } else if (files.has(argv[0]) == false) {
+      return "no such file or directory";
     }
     return files.get(argv[0]);
   })
