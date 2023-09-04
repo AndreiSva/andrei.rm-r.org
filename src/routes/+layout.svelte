@@ -43,6 +43,10 @@
   });
 </script>
 
+<svelte:head>
+    <title>Andrei's Cave</title> 
+</svelte:head>
+
 <canvas id="synthart">
 </canvas>
 
