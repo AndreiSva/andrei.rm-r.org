@@ -128,7 +128,7 @@
   }
 
   .page-content {
-    height: 100%;
+    flex-grow: 1;
   }
 
   .navbar-elements > a {
