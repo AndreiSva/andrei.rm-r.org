@@ -41,13 +41,13 @@ jgs `"""""""""""""`  '-'
 
                 <p>
                 I consider myself an open source enthousiast and enjoy the pleasure of
-                running Linux (more specifically, <a href="https://nixos.org">NixOS</a>) as my primary operating system.
+                running Linux (more specifically, <a href="https://nixos.org">NixOS</a> and <a href="https://fedoraproject.org/silverblue/">SilverBlue</a>) as my primary operating system.
                 </p>
             </Card>
             <Card style="flex-basis: 300px; flex-shrink: 0">
                 <h1>Projects</h1>
 
-                <p>i open source most of my projects on github, here's a few 
+                <p>I open source most of my projects on github, here's a few 
                 that I think are impressive enough to be included here.</p>
                 <br>
 
