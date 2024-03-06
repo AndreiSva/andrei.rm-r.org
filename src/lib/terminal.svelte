@@ -83,6 +83,7 @@ email: andreisva2023@gmail.com
 	      commands.get(command[0])(command.slice(1));
 	    terminalOutput.innerHtml = terminalOutput.innerHTML.replace(/\n?/g, '<br />');
 	  }
+	  window.scrollTo(0, document.body.scrollHeight)
 	} else if (e.key == "Escape") {
 	  terminalInput.style.pointerEvents = "all";
 	  keepfocus = false;
