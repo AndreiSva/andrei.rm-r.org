@@ -201,6 +201,7 @@
   :global(.code) {
     color: lime;
     padding: 20px;
+	margin-bottom: 10px;
     background-color: black;
     border: 2px solid lime;
   }

@@ -71,6 +71,8 @@ jgs `"""""""""""""`  '-'
                 <li>Pictures / attempts at photography</li>
                 <li>A wiki / mindmap (maybe)</li>
             </ul>
+
+			<p>If you're a webring user and you're ready to jump to the next website, head on over to <a href="about">my about page</a></p>
         </Card>
         <Terminal/>
     </div>

@@ -27,7 +27,6 @@
             <li><a href={link}>{link}</a></li>
         {/each}
     </ul>
-    <br>
     <p>
         I guess i could tell you about my website now... This website is built using <a href="https://svelte.dev">SvelteKit</a>, and runs on an azure VM. It's also open source, <a href="https://github.com/AndreiSva/novanode">check out the source code</a>. Oh and here are some server stats if that interests you:
     </p>
@@ -37,7 +36,20 @@
         {command[0]} : {command[1]}
         {/each}
     </pre>
-    <p>
-
-    </p>
+	
+	<h1>Nullring</h1>
+    <p>Oh yeah, and this website is part of the <a href="https://nullring.xyz">Null Webring</a></p>
+    <p class="nullring_links"><a href="https://society.nullring.xyz">&lt- prev</a> <a href="https://nullring.xyz">Nullring</a> <a href="https://kaistevenson.com">next -&gt</a></p>
 </div>
+
+<style>
+    .nullring_links a {
+	    color: lime;
+		background-color: black;
+		font-size: 1.5rem;
+	}
+
+	.nullring_links a:hover {
+		border: 2px solid;
+	}
+</style>
