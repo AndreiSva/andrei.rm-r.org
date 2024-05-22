@@ -33,7 +33,7 @@ jgs `"""""""""""""`  '-'
                 <h1>Welcome to my Website</h1>
                 <p>
                 Hey there, I'm Andrei; or as you might know me online, S0x41 or
-                GalaxyNova. Currently I'm a full-time first year software systems student. I like
+                GalaxyNova. Currently I'm a full-time computer science student and OSS hacker. I like
                 reading about philosophy, writing and using software, reading books, and learning about
                 the universe. I also really like the 80s aesthetic as you can see from this
                 amazing web design.
@@ -47,7 +47,7 @@ jgs `"""""""""""""`  '-'
             <Card style="flex-basis: 300px; flex-shrink: 0">
                 <h1>Projects</h1>
 
-                <p>I open source most of my projects on github, here's a few 
+                <p>I open source most of my projects on Github, here's a few 
                 that I think are impressive enough to be included here.</p>
                 <br>
 

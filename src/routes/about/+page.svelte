@@ -15,7 +15,7 @@
 <div class="content">
     <h1>About</h1>
     <p>
-        If you want to reach out I prefer using matrix or irc, but if you really have to you can contact me on discord, where my username is simply 'netbsd' (yes i know i snagged that one just in time).
+        If you want to reach out I prefer using matrix or irc, but if you really have to you can contact me on discord, where my username is simply 'netbsd' (yes I know I snagged that one just in time).
         I don't use NetBSD for my primary operating system, maybe some day.
     </p>
 
@@ -28,7 +28,7 @@
         {/each}
     </ul>
     <p>
-        I guess i could tell you about my website now... This website is built using <a href="https://svelte.dev">SvelteKit</a>, and runs on an azure VM. It's also open source, <a href="https://github.com/AndreiSva/novanode">check out the source code</a>. Oh and here are some server stats if that interests you:
+        I guess I could tell you about my website now... This website is built using <a href="https://svelte.dev">SvelteKit</a>, and runs on an azure VM. It's also open source, <a href="https://github.com/AndreiSva/novanode">check out the source code</a>. Oh and here are some server stats if that interests you:
     </p>
     <pre class="code">
         server has been up for {data.uptime}
